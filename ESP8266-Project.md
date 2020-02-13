@@ -49,4 +49,5 @@
 
 *   [Latching Power Switch Circuit (Auto Power Off Circuit) for ESP32, ESP8266, Arduino](https://randomnerdtutorials.com/latching-power-switch-circuit-auto-power-off-circuit-esp32-esp8266-arduino/)
 
-**_Recommended premium course:_** **_[Home Automation Using ESP8266](https://randomnerdtutorials.com/home-automation-using-esp8266/)_**
+
+source : https://randomnerdtutorials.com/projects-esp8266/
