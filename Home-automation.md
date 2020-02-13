@@ -40,3 +40,6 @@
 *   [Guide to Raspberry Pi Camera V2 Module](https://randomnerdtutorials.com/guide-to-raspberry-pi-camera-v2-module/)
 *   [Sonoff – $5 WiFi Wireless Smart Switch Introduction](https://randomnerdtutorials.com/sonoff-5-wifi-wireless-smart-switch-introduction/)
 *   [How to Flash a Custom Firmware to Sonoff](https://randomnerdtutorials.com/how-to-flash-a-custom-firmware-to-sonoff/)
+
+
+source: https://randomnerdtutorials.com/projects-home-automation/
