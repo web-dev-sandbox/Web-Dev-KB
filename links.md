@@ -37,3 +37,18 @@
 []()
 []()
 []()
+
+
+[Getting Started with ESP8266 WiFi Transceiver (Review)](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) – What you need to know to get started with the ESP8266 WiFi Module.
+
+*   [Retrieving Bitcoin Price Using ESP8266 WiFi Module](https://randomnerdtutorials.com/retrieving-bitcoin-price-using-esp8266-wifi-module/) – How to get data from the web with the ESP8266 using NodeMCU.
+
+*   [Flashing NodeMCU Firmware on the ESP8266 using Windows](https://randomnerdtutorials.com/flashing-nodemcu-firmware-on-the-esp8266-using-windows/) – How to flash NodeMCU using Windows.
+
+*   [ESP8266 + 2 Relay Modules](https://hackaday.io/project/4422/instructions) – Controlling two relays with an ESP8266 from a web browser.
+
+*   [ESP8266 WiFi Temperature Logger](http://www.instructables.com/id/ESP8266-Wifi-Temperature-Logger/) – Using the ESP8266 and an Arduino. Send data to a remote server.
+
+*   [The Button – WiFi Connected Push Button](https://randomnerdtutorials.com/hhe6) – Press a button and a connection is made to a web server that performs a task.
+
+*   [ESP8266 Web Server Tutorial](https://randomnerdtutorials.com/esp8266-web-server/) – How to build a web server that you can access with your smartphone using the ESP8266.
